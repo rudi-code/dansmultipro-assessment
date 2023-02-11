@@ -25,7 +25,7 @@ import lombok.Setter;
  * Feb 11, 2023
  */
 
-@Entity(name = "CUSTOMER")
+//@Entity(name = "CUSTOMER")
 @Data
 @Getter
 @Setter

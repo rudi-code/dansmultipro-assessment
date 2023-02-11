@@ -22,7 +22,7 @@ import lombok.Setter;
  * Feb 11, 2023
  */
 
-@Entity(name = "TRANSACTION_TRANSFER")
+//@Entity(name = "TRANSACTION_TRANSFER")
 @Data
 @Getter
 @Setter

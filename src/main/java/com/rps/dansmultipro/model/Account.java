@@ -33,7 +33,7 @@ import lombok.Setter;
  * Feb 11, 2023
  */
 
-@Entity(name = "ACCOUNT")
+//@Entity(name = "ACCOUNT")
 @Data
 @Getter
 @Setter
