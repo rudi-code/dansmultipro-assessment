@@ -23,6 +23,7 @@ import lombok.Setter;
  */
 
 //@Entity(name = "TRANSACTION_TRANSFER")
+
 @Data
 @Getter
 @Setter

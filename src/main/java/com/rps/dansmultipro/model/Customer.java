@@ -26,6 +26,7 @@ import lombok.Setter;
  */
 
 //@Entity(name = "CUSTOMER")
+
 @Data
 @Getter
 @Setter
