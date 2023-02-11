@@ -1,0 +1,3 @@
+﻿INSERT INTO "customer" ("cust_id","cust_address","cust_birthdate","cust_city","cust_firstname","cust_gender","cust_lastname","cust_postcode") VALUES (1,'rumah test','2023-02-11','jakarta','John','1','Michael','0');
+INSERT INTO "customer" ("cust_id","cust_address","cust_birthdate","cust_city","cust_firstname","cust_gender","cust_lastname","cust_postcode") VALUES (2,'test 2','2023-02-11','jakarta','Rudi','1','Purnomo','0');
+INSERT INTO "customer" ("cust_id","cust_address","cust_birthdate","cust_city","cust_firstname","cust_gender","cust_lastname","cust_postcode") VALUES (3,'test 3','2023-02-11','Surabaya','Setia','1','Budi','0');
